@@ -1,4 +1,4 @@
-# Hi there, I'm Dhanshree! 👋
+# Hi there, I'm Dhanshree!💗✨
 
 I'm a 2nd-year AI-DS engineering student passionate about technology, coding, and building cool stuff. Currently based in Pune, India. I love diving into frontend development, mastering C++, and exploring the world of React.
 
@@ -24,7 +24,7 @@ I'm a 2nd-year AI-DS engineering student passionate about technology, coding, an
 - **Project 2:** [Weather App](#) - A web application to fetch and display weather information using React.
 - **Project 3:** [C++ Algorithms](#) - Collection of algorithms implemented in C++.
 -->
-## 📫 Let's Connect
+## ✨Let's Connect✨
 
 <div>
   <a href="https://www.linkedin.com/in/dhanshree-gaikwad-52137b245/" target="_blank">
