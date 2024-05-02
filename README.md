@@ -1,13 +1,13 @@
 # Hi there, I'm Dhanshree!💗✨
 
-I'm a 2nd-year AI-DS engineering student passionate about technology, coding, and building cool stuff. Currently based in Pune, India. I love diving into frontend development, mastering C++, and exploring the world of React.
+I'm a 2nd-year AI-DS engineering student passionate about technology, coding, and building cool stuff. Currently based in India. I love diving into frontend development, mastering C++, and exploring the world of React.
 
 ## 🚀 About Me
 
-- 🎓 I'm currently pursuing my Bachelor's in AI-DS Engineering from Pune.
+- 🎓 I'm currently pursuing my Bachelor's in AI-DS Engineering.
 - 💻 I'm deeply interested in frontend development and UI/UX design.
 - 🌱 I'm currently learning React to enhance my skills in building dynamic web applications.
-- 🔬 I'm enthusiastic about exploring the fields of Artificial Intelligence and Data Science.
+- 🔬 I'm enthusiastic about exploring the fields of Technology.
 - 🤖 I'm a C++ enthusiast, always eager to solve algorithmic challenges and build efficient solutions.
 - 🎨 In my free time, I enjoy reading and watching movies.
 
