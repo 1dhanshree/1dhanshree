@@ -4,11 +4,10 @@ I'm a AI-DS engineering student passionate about technology, coding, and buildin
 
 ## 🚀 About Me
 
-- 🎓 I'm currently pursuing my Bachelor's in AI-DS Engineering.
-- 💻 I'm deeply interested in frontend development and UI/UX design.
-- 🌱 I'm currently learning React to enhance my skills in building dynamic web applications.
-- 🔬 I'm enthusiastic about exploring the fields of Technology.
-- 🤖 I'm a C++ enthusiast, always eager to solve algorithmic challenges and build efficient solutions.
+- 🎓 Currently pursuing my Bachelor's in AI-DS Engineering.
+- 💻 Deeply interested in frontend development and UI/UX design.
+- 🔬 Love Exploring the fields of Technology.
+- 🤖 C++ enthusiast, always eager to solve algorithmic challenges and build efficient solutions.
 - 🎨 In my free time, I enjoy reading and watching movies.
 
 ## 🔧 Skills
