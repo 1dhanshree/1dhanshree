@@ -1,13 +1,15 @@
+<link rel="stylesheet" href="style.css">
+
 <img src = "https://github.com/1dhanshree/1dhanshree/blob/main/images/nbgh.gif"/>
 
-I'm a AI-DS engineering student passionate about technology, coding, and building cool stuff. Currently based in India. I love diving into frontend development, mastering C++, and exploring the world of React.
+<span style="color: #ff0080;">Hi there!</span>
+
+
+I'm a AI-DS engineering student passionate about technology, coding, and building cool stuff. Currently based in India, mastering C++, React.
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing my Bachelor's in AI-DS Engineering.
 - 💻 Deeply interested in frontend development and UI/UX design.
-- 🔬 Love Exploring the fields of Technology.
-- 🤖 C++ enthusiast, always eager to solve algorithmic challenges and build efficient solutions.
 - 🎨 In my free time, I enjoy reading and watching movies.
 
 ## 🔧 Skills
