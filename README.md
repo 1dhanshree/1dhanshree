@@ -26,6 +26,9 @@ I'm an AI-DS engineering student passionate about technology, coding, and buildi
 - **Project 3:** [C++ Algorithms](#) - Collection of algorithms implemented in C++.
 -->
 
+## 🥰 Meet my Mascot
+<img src="https://github.com/1dhanshree/1dhanshree/blob/main/images/gengar.gif"/>
+
 ## 📥 Let's Connect
 Feel free to reach out to me for collaborations, discussions, or just to say hi! I'm always open to learning and working on exciting projects.
 
