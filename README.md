@@ -1,3 +1,4 @@
+<img src="https://github.com/1dhanshree/1dhanshree/images/nameBanner.gif"/>
 # Hi there, I'm Dhanshree!💗✨
 
 I'm a AI-DS engineering student passionate about technology, coding, and building cool stuff. Currently based in India. I love diving into frontend development, mastering C++, and exploring the world of React.
