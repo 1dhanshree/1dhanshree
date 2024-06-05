@@ -2,17 +2,17 @@
 
 <img src = "https://github.com/1dhanshree/1dhanshree/blob/main/images/nbgh.gif"/>
 
-<span style="color: #ff0080;">Hi there!</span>
+## Hi There! 🌷
 
 
-I'm a AI-DS engineering student passionate about technology, coding, and building cool stuff. Currently based in India, mastering C++, React.
+I'm an AI-DS engineering student passionate about technology, coding, and building cool stuff, mastering C++, React.
 
-## 🚀 About Me
+## 🌟 About Me
 
-- 💻 Deeply interested in frontend development and UI/UX design.
-- 🎨 In my free time, I enjoy reading and watching movies.
+-  Deeply interested in frontend development and UI/UX design.
+-  In my free time, I enjoy reading and watching movies.
 
-## 🔧 Skills
+## 🤹🏻‍♀️ Skills
 
 - **Languages:** C++, JavaScript
 - **Frontend:** HTML, CSS, React (learning)
@@ -25,7 +25,9 @@ I'm a AI-DS engineering student passionate about technology, coding, and buildin
 - **Project 2:** [Weather App](#) - A web application to fetch and display weather information using React.
 - **Project 3:** [C++ Algorithms](#) - Collection of algorithms implemented in C++.
 -->
-## ✨Let's Connect✨
+
+## 📥 Let's Connect
+Feel free to reach out to me for collaborations, discussions, or just to say hi! I'm always open to learning and working on exciting projects.
 
 <div>
   <a href="https://www.linkedin.com/in/dhanshree-gaikwad-52137b245/" target="_blank">
@@ -41,7 +43,6 @@ I'm a AI-DS engineering student passionate about technology, coding, and buildin
   -->
 </div>
 
-Feel free to reach out to me for collaborations, discussions, or just to say hi! I'm always open to learning and working on exciting projects.
 
 <!--
 **1dhanshree/1dhanshree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
