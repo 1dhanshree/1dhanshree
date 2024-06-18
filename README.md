@@ -17,7 +17,7 @@ I'm an AI-DS engineering student passionate about technology, coding, and buildi
 - **Languages:** C++, JavaScript
 - **Frontend:** HTML, CSS, React (learning)
 - **Tools:** Git, GitHub, Visual Studio Code
-- **Others:** Data Structures and Algorithms, UI/UX Design
+- **Others:** Data Structures and Algorithms
 
 <!---## 🌟 Projects
 
